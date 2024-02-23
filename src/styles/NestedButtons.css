@@ -1,0 +1,11 @@
+.innerButton {
+    margin: 10px;
+    position: relative;
+    z-index: 1;
+    background-color: blue; 
+    color: white; 
+    border: none; 
+    padding: 5px 10px; 
+    cursor: pointer; 
+  }
+  
